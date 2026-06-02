@@ -54,3 +54,5 @@ print(rev_st)
 
 for i in "WsCubeTech":
     print(i)
+    
+    
